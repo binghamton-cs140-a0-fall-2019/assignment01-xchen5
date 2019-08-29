@@ -1,0 +1,57 @@
+
+TESTS FOR Computer.java:
+Dell, intel, 4GB Memory, 100GB Solid State Drive, Price: $300.00 
+Dell, intel, 4GB Memory, 300GB Hard Drive, Price: $300.00 
+Dell, intel, 4GB Memory, 3.0TB Solid State Drive, Price: $300.00 
+Dell, intel, 4GB Memory, 2.0TB Hard Drive, Price: $300.00 
+
+TESTS FOR DateAndPlaceOfBirth.java
+Date and place of birth: 2000-11-05, Brooklyn, NY, USA
+Date and place of birth: 1999-11-05, Queens, NY, USA
+Date and place of birth: 2000-11-05, Columbus, OH, USA
+Date and place of birth: 1994-10-02, Paris, France
+Date and place of birth: 1523-04-02, London, England
+true
+true
+false
+true
+false
+false
+true
+
+TESTS FOR StreetUSAddress.java
+345 Chambers Street
+New York, NY 10282
+123 XYZ Street
+FL 2
+New York, NY 13123
+
+TESTS FOR Person.java
+Xavier Chen (111001111),
+Date and place of birth: 2000-11-05, Brooklyn, NY, USA
+111 xd street
+fl 0
+New York, NY 12313
+
+
+TESTS FOR ComputerOwner.java
+Computer List, Owner: Xavier Chen (111001111),
+Date and place of birth: 2000-11-05, Brooklyn, NY, USA
+111 xd street
+fl 0
+New York, NY 12313
+Computers: [Dell, intel, 4GB Memory, 100GB Solid State Drive, Price: $300.00 , Dell, intel, 4GB Memory, 300GB Hard Drive, Price: $300.00 , Dell, intel, 4GB Memory, 3.0TB Solid State Drive, Price: $300.00 , Dell, intel, 4GB Memory, 2.0TB Hard Drive, Price: $300.00 ]
+Computer List, Owner: Xavier Chen (111001111),
+Date and place of birth: 2000-11-05, Brooklyn, NY, USA
+111 xd street
+fl 0
+New York, NY 12313
+Computers: [Dell, intel, 4GB Memory, 100GB Solid State Drive, Price: $300.00 , Dell, intel, 4GB Memory, 300GB Hard Drive, Price: $300.00 ]
+
+TESTS FOR SimpleDate.java
+false
+true
+true
+false
+true
+false
